@@ -1,6 +1,6 @@
 ![Hi, I'm Pepe Cabrera](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:5FA564,100:B8AF55&fontColor=f7f5f5&section=header&reversal=false&text=hi%2C+im+pepe%21&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=73)
 
-### Computer Science & Artificial Intelligence Student · Software Development · Machine Learning**
+### Computer Science & Artificial Intelligence Student · Software Development · Machine Learning
 
 I'm a second-year **BSc Computer Science – Artificial Intelligence student at the University of Seville**, interested in building software solutions and exploring the possibilities of Artificial Intelligence.
 
