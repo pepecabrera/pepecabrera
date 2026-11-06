@@ -1,69 +1,38 @@
-![Hi, I'm Pepe Cabrera](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:5FA564,100:B8AF55&fontColor=f7f5f5&section=header&reversal=false&text=hi%2C+im+pepe%21&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=73)
-
-### Computer Science & Artificial Intelligence Student · Software Development · Machine Learning
-
-I'm a second-year **BSc Computer Science – Artificial Intelligence student at the University of Seville**, interested in building software solutions and exploring the possibilities of Artificial Intelligence.
-
-- 🔭 Currently strengthening my programming foundations
-- 🌱 Exploring software development, data science and machine learning
-- 🧩 I enjoy understanding how things work and turning ideas into practical projects
-
----
-
-## 🛠️ Tech Stack
-
-*Learning a bit more every day.*
-
-**Languages**  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark">
-  <img alt="Languages" src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=light">
-</picture>
-
-**Backend, Databases & Tools**  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flask,mysql,docker,git,github&theme=dark">
-  <img alt="Backend, Databases and Tools" src="https://skillicons.dev/icons?i=flask,mysql,docker,git,github&theme=light">
-</picture>
-
----
-
-## 🚀 Featured Projects
-
-### 🍽️ Plato-Plató
-
-A university group project focused on database design and restaurant management.
-
-- Conceptual and relational database modeling
-- SQL and MariaDB
-- Python backend development
-- Collaborative development using Git and GitHub
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pepecabrera/plato-plato)
-
-*More projects and experiments coming soon.*
-
----
-
-## 📊 GitHub Activity
-
 <div align="center">
 
-[![pepecabrera's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pepecabrera&theme=github-compact&hide_border=true)](https://github.com/pepecabrera)
+![Hi, I'm Pepe Cabrera](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:5FA564,100:B8AF55&fontColor=f7f5f5&section=header&reversal=false&text=hi%2C+im+pepe%21&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=73)
 
 </div>
 
----
+<h2 align="center">info</h2>
 
-## 📫 Connect with me
+<p align="center">I'm a second-year BSc Computer Science – Artificial Intelligence student at the University of Seville, interested in building software solutions and exploring the possibilities of Artificial Intelligence. Currently developing my skills and trying to make the best out of it.</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pepe-cabrera)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pepkabgar@gmail.com)
+<h2 align="center">tech_stack</h2>
 
-<br>
+<div align="center">
 
-<p align="center">
-  <i>It's better to be a pirate than to join the Navy.</i>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:5FA564,100:B8AF55&section=footer" />
+
+</div>
+
+<h2 align="center">socials</h2>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pepe-cabrera)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pepkabgar@gmail.com)
+
+</div>
+
+<h2 align="center">snake!</h2> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pepecabrera/pepecabrera/output/github-snake-dark.svg"> <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/pepecabrera/pepecabrera/output/github-snake.svg"> </picture> </div>
